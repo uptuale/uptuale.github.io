@@ -2,6 +2,7 @@ User-Agent: *
 Disallow: 
 
 Sitemap: https://uptuale.github.io/sitemap.html
+Sitemap: https://uptuale.github.io/view/sitemap.html
 Sitemap: https://uptuale.github.io/sitemap-179.html
 Sitemap: https://uptuale.github.io/sitemap-005.html
 Sitemap: https://uptuale.github.io/sitemap-123.html
